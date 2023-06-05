@@ -1,0 +1,35 @@
+@use '../utilities/mixins';
+@use '../utilities/variables';
+
+.header {
+	background-color: variables.$bgc;
+	color: variables.$white-font; //to możliwe, że trzeba dodać global
+	&__container {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+		@include mixins.small-devices {
+			flex-direction: row;
+			justify-content: space-evenly;
+		}
+	}
+	&__text {
+		border: 1px solid red;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+	}
+	&__image {
+		img {
+			
+            @include mixins.small-devices {
+                width: 120%;
+            }
+            @include mixins.medium-devices {
+                width: 150%;
+            }
+		}
+	}
+}
