@@ -1,0 +1,39 @@
+{
+  "public_html/images/bg/bg1.png": {
+    "file": "assets/bg1-9c058b83.png",
+    "src": "public_html/images/bg/bg1.png"
+  },
+  "public_html/images/bg/bg2.png": {
+    "file": "assets/bg2-e8fa102e.png",
+    "src": "public_html/images/bg/bg2.png"
+  },
+  "public_html/images/bg/bg3.png": {
+    "file": "assets/bg3-178b3127.png",
+    "src": "public_html/images/bg/bg3.png"
+  },
+  "public_html/images/bg/bg4.png": {
+    "file": "assets/bg4-5d06f28f.png",
+    "src": "public_html/images/bg/bg4.png"
+  },
+  "public_html/images/bg/bg5.png": {
+    "file": "assets/bg5-fcc0720b.png",
+    "src": "public_html/images/bg/bg5.png"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-4ff03cfa.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-4e10d3fe.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.js": {
+    "css": [
+      "assets/app-4e10d3fe.css"
+    ],
+    "file": "assets/app-89ba6257.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
