@@ -17,7 +17,7 @@
         <x-offerCard :title="'Profesjonalna pomoc w wyborze psa'" src="{{ asset('assets/images/podajlapsie_10.webp') }}" alt="'Nosek pieska pajdka'" href="{{route('choice')}}">Dopasowanie psa do stylu życia przyszłego opiekuna jest bardzo ważne w budowaniu zdrowej relacji z psem. Wpływ na to ma wiele czynników, rytm życia opiekuna i cechy charakteru danego psa. 
             
         </x-offerCard>
-        <x-offerCard :title="'Petsitting'"  src="{{ asset('assets/images/podajlapsie_05.webp') }}" alt="'Nosek pieska pajdka'" href="{{route('petsitting')}}">Nie masz czasu wyjść z psem? Trzeba podać leki Twojemu psu, gdy jesteś nieobecny? Walczysz z lękiem separacyjnym? A może chcesz wyjechać na weekend, ale niestety nie możesz zabrać pupila ze sobą? Oferuję swoje usługi w tym zakresie dodatkowo dostaniesz poradę behawioralną w gratisie </x-offerCard>
+        <x-offerCard :title="'Petsitting'"  src="{{ asset('assets/images/podajlapsie_05.webp') }}" alt="'Nosek pieska pajdka'" href="{{route('petsitting')}}">Nie masz czasu wyjść z psem? Trzeba podać leki Twojemu psu, gdy jesteś nieobecny? Walczysz z lękiem separacyjnym? A może chcesz wyjechać na weekend, ale niestety nie możesz zabrać pupila ze sobą? Oferuję swoje usługi w tym zakresie w zaciszu Twojego domu. Dodatkowo dostaniesz poradę behawioralną w gratisie! </x-offerCard>
     </div>
    
    

@@ -18,18 +18,6 @@ h1,h2,h3,h4,h5,h6{
     font-family: 'Work Sans', sans-serif;
 }
 
-
-
-
-
-
-
-
-
-
-
- 
-
   .nav{
     z-index: 100000;
   }
@@ -37,3 +25,17 @@ h1,h2,h3,h4,h5,h6{
   .ck-content{
     @apply text-black min-h-[300px]
 }
+
+
+#postContent{
+    @apply leading-6
+}
+
+#postContent strong{
+    @apply font-extrabold
+}
+
+
+
+
+

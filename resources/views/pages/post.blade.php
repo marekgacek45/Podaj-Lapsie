@@ -25,7 +25,7 @@
 
                 
                 <span>{{ $post->created_at->diffForHumans() }}</span>
-                <div id="postContent" class="my-6 max-w-screen-md">
+                <div id="postContent" class="my-6 max-w-screen-md text-left">
                     {!! $post->content !!}
                 </div>
                 <p></p>

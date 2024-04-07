@@ -41,7 +41,7 @@ Route::post('/', [ContactFormController::class,'send'])->name('form.send');
 Route::get('/o-mnie', [PagesController::class,'about'])->name('about');
 Route::get('/konsultacje', [PagesController::class,'consultations'])->name('consultations');
 Route::get('/szczeniak', [PagesController::class,'puppy'])->name('puppy');
-Route::get('/pomoc_w_wyborze', [PagesController::class,'choice'])->name('choice');
+Route::get('/pomoc-w-wyborze', [PagesController::class,'choice'])->name('choice');
 Route::get('/petsitting', [PagesController::class,'petsitting'])->name('petsitting');
 
 Route::get('/kontakt', [PagesController::class,'contact'])->name('contact');

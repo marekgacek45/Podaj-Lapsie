@@ -26,7 +26,7 @@
         <hr class="my-6 border-gray-200 sm:mx-auto lg:my-8" />
         <div class="flex flex-col justify-center items-center gap-1">
             <span class="text-sm text-white ">© <span class="footer-year"></span> <a href="{{route('home')}}" class="hover:underline text-white"> Podaj Łapsie</a></span>
-            <span class="flex  justify-center items-center  text-sm text-gray-500 gap-1 flex-wrap"> wykonanie <a href="https://gorskastrona.pl" target="_blank" class="flex  justify-center items-center gap-1">Górska Strona <img src="{{asset('images/assets/gorska_logo.png')}}" alt="logo wykonwacy strony - Górska Strona" width="50px"></a></span>
+            <span class="flex  justify-center items-center  text-sm text-gray-500 gap-1 flex-wrap"> wykonanie <a href="https://marekgacekdev.pl" target="_blank" class="flex  justify-center items-center gap-1">Marek Gacek </a></span>
     </div>
         </div>
        

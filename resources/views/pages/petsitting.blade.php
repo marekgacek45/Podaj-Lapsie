@@ -22,7 +22,7 @@
                 </div>
   
   
-                        <p class="mt-8  md:mt-12 mb-4 text-base font-normal leading-7">Zapewniam elastyczność i dostosowuję zakres usług do Twoich oczekiwań. Wystarczy mi powiedzieć, czego potrzebujesz, a ja ustalę odpowiedni dla nas harmonogram spotkań, wizyt czy spacerów. Niezależnie od tego, czy potrzebujesz stałej opieki, czy też jednorazowej pomocy - jestem tu, aby Ci pomóc.</p>
+                        <p class="mt-8  md:mt-12 mb-4 text-base font-normal leading-7">Zapewniam elastyczność i dostosowuję zakres usług do Twoich oczekiwań. Wystarczy mi powiedzieć, czego potrzebujesz, a ja ustalę odpowiedni dla nas harmonogram spotkań, wizyt czy spacerów. Niezależnie od tego, czy potrzebujesz stałej opieki, czy też jednorazowej pomocy - jestem tu, aby Ci pomóc. Usługi są realizowane w domu klienta, co zapewnia komfort i wygodę, dostosowując się do indywidualnych potrzeb i preferencji.</p>
 
                         <p class="mt-8  md:mt-12 mb-4 text-base font-normal leading-7">Dodatkowo, zakończyłam kurs z pierwszej pomocy dla psów, co oznacza, że Twoje zwierzę jest ze mną w bezpiecznych rękach. A jeśli zdecydujesz się na moje usługi petsittingowe, oferuję Ci darmową poradę behawioralną podczas pierwszej wizyty. Dla mnie nie chodzi tylko o zapewnienie opieki, ale także o pomoc w budowaniu pozytywnych zachowań i relacji między Tobą a Twoim zwierzakiem.</p>
   

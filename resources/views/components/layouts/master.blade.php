@@ -7,6 +7,8 @@
     <title>@yield('title', 'Podaj Łapsie - Behawiorysta i Szkolenie Psów w Nowym Targu i na Podhalu')</title>
     <meta name="description" content="@yield('description', 'Podaj Łapsie - Profesjonalny behawiorysta psów i zoopsycholog w Nowym Targu i na Podhalu. Pomogę zrozumieć i rozwiązać problemy behawioralne Twojego pupila. Skontaktuj się już teraz!')">
 
+    <link rel="canonical" href="{{ url()->current() }}" />
+
     <link rel="apple-touch-icon" sizes="180x180" href="{{asset('assets/favicon/apple-touch-icon.png')}}">
     <link rel="icon" type="image/png" sizes="32x32" href="{{asset('assets/favicon/favicon-32x32.png')}}">
     <link rel="icon" type="image/png" sizes="16x16" href="{{asset('assets/favicon/favicon-16x16.png')}}">
@@ -24,8 +26,8 @@
     @vite(['resources/css/app.css','resources/js/app.js'])
 </head>
 
-<body>
-
+<body >
+    <x-preloader />
     <!--NAVIGATION -->
     <x-navigation.nav />
     
@@ -34,6 +36,8 @@
     
     <!--FOOTER -->
     <x-footer />
+
+   
 </body>
 
 </html>

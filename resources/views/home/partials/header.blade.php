@@ -1,7 +1,7 @@
 
 
 
-<header class="pt-18 flex bg-center min-h-[100vh] relative" >
+<header id="header" class="pt-18 flex  min-h-[100vh] relative bg-cover bg-center bg-gray-400 bg-blend-multiply " >
     
     <div class="bg-black absolute bottom-0 top-0 left-0 right-0  z-10 opacity-50"></div>
 
@@ -18,18 +18,6 @@
         </div>
     </div>
     
-    
-
-    <!-- You can add more ".slideshow-image" elements, but remember to update the "$items" variable on SCSS -->
-    <div class="slideshow">
-        <div class="slideshow-image" style="background-image: url('{{asset('assets/images/podajlapsie_07.webp')}}')"></div>
-      <div class="slideshow-image" style="background-image: url('{{asset('assets/images/podajlapsie_06.webp')}}')"></div>
-      <div class="slideshow-image" style="background-image: url('{{asset('assets/images/podajlapsie_12.webp')}}')"></div>
-      <div class="slideshow-image" style="background-image: url('{{asset('assets/images/podajlapsie_13.webp')}}')"></div>
-      <div class="slideshow-image" style="background-image: url('{{asset('assets/images/podajlapsie_15.webp')}}')"></div>
-      <div class="slideshow-image" style="background-image: url('{{asset('assets/images/podajlapsie_16.webp')}}')"></div>
-      
-    </div>
 </header>
 
 
