@@ -5,7 +5,7 @@
       <main class="pt-10 ">
   
         <x-sectionBg class="bg2 bg-gray-800">
-            <x-sectionWrapper  id="kontakt" :title="'Skontaktuj się ze mną'" class=" min-w-full  py-24 mb-0">
+            <x-sectionWrapper  id="galeria" :title="'Galeria'" class=" min-w-full  py-24 mb-0">
             
                 <div class="grid-wrapper max-w-screen-2xl mx-auto mt-8" >
 
